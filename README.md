@@ -2,7 +2,7 @@
 
 🧠 Computer Science student with AI specialization at Sage University Indore<br/>
 🌱 I’m currently learning Artificial Intelligence and Machine Learning <br/>
-👯 I’m looking to collaborate to build some great projects<br/>
+👯 I’m looking to collaborate and build some great & complecated projects<br/>
 
 
 # 💻 Tech Stack:
